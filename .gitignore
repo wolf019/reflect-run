@@ -1,1 +1,4 @@
+.DS_Store
+
+# Do not push dev env
 /dev

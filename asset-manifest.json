@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ece49ad9.css",
+    "main.js": "/static/js/main.653a3493.js",
+    "static/media/runners.jpeg": "/static/media/runners.1679896184cb4cc0d100.jpeg",
+    "static/media/QR.png": "/static/media/QR.ab18d79fd2f5d5d683c3.png",
+    "static/media/Gayathri-Thin.ttf": "/static/media/Gayathri-Thin.76c1fc3db134e774f4ad.ttf",
+    "static/media/Gayathri-Bold.ttf": "/static/media/Gayathri-Bold.264ad1262b59197803d0.ttf",
+    "static/media/Gayathri-Regular.ttf": "/static/media/Gayathri-Regular.7b34fc5c8baeb87d37d2.ttf",
+    "static/media/Flag.png": "/static/media/Flag.14a78235dd57fe70bd7d.png",
+    "static/media/RR-BG.jpg": "/static/media/RR-BG.f4bd9c62183f9635f9ee.jpg",
+    "static/media/Italiana-Regular.ttf": "/static/media/Italiana-Regular.2d0e370dde5190d0d6a0.ttf",
+    "static/media/RR-logo.svg": "/static/media/RR-logo.362cfb8d03e41bfe0e79579a0855cc8c.svg",
+    "index.html": "/index.html",
+    "main.ece49ad9.css.map": "/static/css/main.ece49ad9.css.map",
+    "main.653a3493.js.map": "/static/js/main.653a3493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ece49ad9.css",
+    "static/js/main.653a3493.js"
+  ]
+}
